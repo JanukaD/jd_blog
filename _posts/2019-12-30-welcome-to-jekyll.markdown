@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome to First Post"
 date:   2019-12-30 14:37:11 +0530
 categories: jekyll update
