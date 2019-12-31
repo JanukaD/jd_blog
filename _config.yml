@@ -21,7 +21,9 @@
 title: Bug Zero Support Site
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We, at Bug Zero provide end to end support for every bug bounty programs.
+  Welcome to BugZero's Product Documentation Center!<br>
+  This is where you can get familiar with BugZero and explore our product features. We provide some tips here that you
+  might find useful. This site is open to all and we welcome your feedback!
 baseurl: "jd_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
