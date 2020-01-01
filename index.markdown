@@ -47,7 +47,7 @@ Check out the [here][jekyll-docs] for more .
 <th><center>For Organizations</center></th>
 </tr>
 <tr>
-<td><a href="http://127.0.0.1:4000/about1/"><img src="assets/image_hack.png" alt="hacker" width="400"/></a></td>
-<td><a href="http://127.0.0.1:4000/about1/"><img src="assets/image.png" alt="company" width="400"/></a></td>
+<td><a href="http://127.0.0.1:4000/hacker-intro/"><img src="assets/image_hack.png" alt="hacker" width="400"/></a></td>
+<td><a href="http://127.0.0.1:4000/company-intro/"><img src="assets/image.png" alt="company" width="400"/></a></td>
 </tr></table>
 
