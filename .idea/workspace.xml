@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c8ff06-8310-4f01-8bc4-e6ed39892266" name="Default Changelist" comment="" />
+    <list default="true" id="f0c8ff06-8310-4f01-8bc4-e6ed39892266" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/search-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/js/search-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/hacker-support.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/hacker-support.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/hacker-support/hacker-start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/hacker-support/hacker-start/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/hacker-support/hacker-start.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hacker-support/hacker-start.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/hacker-support/hacker-support.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hacker-support/hacker-support.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/docs/hacker-support/hacker-start.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <first_editor relative-caret-position="467">
+                <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
               </first_editor>
               <second_editor />
             </state>
@@ -220,6 +227,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -461,8 +469,8 @@
     <entry file="file://$PROJECT_DIR$/docs/hacker-support/hacker-start.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <first_editor relative-caret-position="467">
+            <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
           </first_editor>
           <second_editor />
         </state>
