@@ -16,7 +16,7 @@ permalink: /docs/hacker-support
 
 # As a hacker:
 
-![hacker_support](/assets/images/image_hack.png){: .center-image }
+![hacker_support]({{ site.url }}/assets/images/image_hack.png){: .center-image }
 
 The main responsibility of a hacker who participates in a bug bounty program is the finding security 
 vulnerabilities or software bugs and responsibly disclosing it to that company’s security team in an 
