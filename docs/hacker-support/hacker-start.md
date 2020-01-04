@@ -21,7 +21,7 @@ Here are the steps that'll get you up and hacking:
 
 - Create an account [here](https://bugzero.io/signup).
 
-![hacker_sign_in](/assets/images/hacker_sign.PNG){: .center-image }
+![hacker_sig_in]({{ site.baseurl }}/assets/images/hacker_sign.PNG){: .center-image }
 
 - Verify your email by clicking **Confirm email address** in the verification email sent to your personal email. <br>  
 - You can customize below settings under **Hacker Settings**.
