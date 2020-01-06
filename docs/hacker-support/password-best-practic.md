@@ -11,7 +11,7 @@ A Strong Password is defined as a password that is reasonably difficult to guess
 ### Use a strong unique password.
 * Use a minimum of 08 characters in your password. The longer your password, it will give you better security.
 * String together 4 random words.
-     * Example: correctwhalebatterystaple
+     * Example: correctwhalebatterystable
 * Use a different password for each site you log into. This ensures that if another site is breached or your password is leaked somewhere, it can’t be used to log into another site.
 * Avoid:
      * Using single dictionary words, spatial patterns (i.e. qwerty, asdf), repeating letters, or sequences (i.e. abcd, 1234).

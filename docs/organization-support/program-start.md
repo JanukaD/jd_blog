@@ -13,7 +13,7 @@ nav_order: 1
 }
 </style>
 
-# Hacker Start-Up Guide
+# Program Start-Up Guide
 {: .no_toc }
 
 Congratulations on deciding to use Bug Zero as your platform in set up your hacker-powered security program 
