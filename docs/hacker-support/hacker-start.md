@@ -9,6 +9,7 @@ nav_order: 1
 {
     margin: 0 auto;
     display: block;
+    border: 1px solid #a075d1;
 }
 </style>
 
@@ -21,7 +22,7 @@ Here are the steps that'll get you up and hacking:
 
 - Create an account [here](https://bugzero.io/signup).
 
-![hacker_sig_in]({{ site.url }}/assets/images/hacker_sign.PNG){: .center-image }
+![hacker_sign_in]({{ site.url }}/assets/images/hacker_sign.PNG){: .center-image }
 
 - Verify your email by clicking **Confirm email address** in the verification email sent to your personal email. <br>  
 - You can customize below settings under **Hacker Settings**.
@@ -34,4 +35,4 @@ Skill Set | Specify your skill set **(need 2000 Zero Points™ or higher to set 
 Payment Methods | You can set up and add different payment methods for how you'd like to receive your payments.
 Disable | Enter your current password to disable your account.
 
-><i>Note: You can’t be changed the your handler name by yourself after completing the sign up process. If you need any changes regarding that you have to contact the Bug Zero development team</i>
+><i>Note: You can’t be changed your handler name by yourself after completing the sign up process. If you need any changes regarding that you have to contact the Bug Zero development team</i>

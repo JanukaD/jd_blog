@@ -16,7 +16,7 @@
 title: Bug Zero Support
 description: Support site for the Bug Zero users
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://janukad.github.io/jd_blog/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.scorelab.org/bugzero-supports" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
