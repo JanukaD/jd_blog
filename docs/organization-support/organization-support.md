@@ -8,7 +8,7 @@ permalink: docs/organization-support
 
 # As an Organization:
 
-<img src="../../assets/images/image.png" alt="hacker" width="400" align="right"/>
+<img src="{{ site.url }}/assets/images/image.png" alt="hacker" width="400" align="right"/>
 
 New data-driven businesses are mushrooming, organizations across industries are embracing technological 
 advancements, and cyber criminals are getting more sophisticated. Cyber crime rates are growing, and with 
